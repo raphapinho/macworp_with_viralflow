@@ -1,5 +1,7 @@
 # instalação do macworp
-  - git clone https://cubimedrub.github.io/macworp/latest/
+  \`\`\`bash
+git clone https://cubimedrub.github.io/macworp/latest/
+\`\`\` 
   
 # Preparando abiente de desenvolvimento
   - cd ./macworp
