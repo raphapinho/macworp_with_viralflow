@@ -27,5 +27,5 @@ $ env PYTHONUNBUFFERED=1 python -m macworp_worker -n ./nextflow -s $(which snake
   - http://localhost:3001	
 ## Fusionauth
   - http://localhost:9011	
-  - usuário: developer@example.com
-  - senha: developer
+    - usuário: developer@example.com
+    - senha: developer
